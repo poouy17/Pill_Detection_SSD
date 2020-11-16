@@ -8,6 +8,7 @@ Using SSD Model to detect pill in picture and crop that to use Text Recognition 
   - 2000장 가량의 알약 사진 Labeling
   - SSD Model의 Train.py를 이용해 학습
   - 가장 성능이 좋은 Model의 .pb File 저장
+  - 20.11.01_sota Folder에 가장 성능이 좋은 Model과 결과 저장
 
 ### SSD Model을 이용하여 사진에서 Pill Detection 후, Crop
   - Using_finetuned_model_to_detect_pill_text.ipynb
