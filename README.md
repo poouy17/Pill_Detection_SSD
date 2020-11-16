@@ -1,6 +1,6 @@
 # Pill_Detection
 
-Using SSD Model to detect pill in picture and crop that to use Text Detection Model's Input
+Using SSD Model to detect pill in picture and crop that to use Text Recognition Model's Input
 -Inha University Project
 
 ### SSD Model 학습
